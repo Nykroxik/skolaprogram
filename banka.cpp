@@ -10,7 +10,7 @@ int main(){
     int pepevolba;
     int jamalvolba;
     int jamalVyber;
-
+   //monkey
     int pepeZustatek = 0;
     int pepeVyber;
 
